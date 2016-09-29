@@ -92,6 +92,7 @@ public class QuizActivity extends AppCompatActivity {
                 else
                     mCurrentIndex =  (mCurrentIndex - 1) % mQuestionBank.length;
                 updateQuestion();
+                
             }
         });
 
