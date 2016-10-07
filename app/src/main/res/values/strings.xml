@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CalcOnFragment</string>
+
+    <string name="buttonTextPlus">+</string>
+    <string name="buttonTextMinus">-</string>
+    <string name="buttonTextMultiply">*</string>
+    <string name="buttonTextDivision">/</string>
+    <string name="buttonTextResult">=</string>
+    <string name="buttonTextReset">C</string>
+    <string name="buttonTextPoint">.</string>
+    
+    <string name="buttonTextOne">1</string>
+    <string name="buttonTextTwo">2</string>
+    <string name="buttonTextThree">3</string>
+    <string name="buttonTextFour">4</string>
+    <string name="buttonTextFive">5</string>
+    <string name="buttonTextSix">6</string>
+    <string name="buttonTextSeven">7</string>
+    <string name="buttonTextEight">8</string>
+    <string name="buttonTextNine">9</string>
+    <string name="buttonTextZero">0</string>
+</resources>
